@@ -55,4 +55,4 @@ Every model output is a lead until the cited page has been fetched and the quote
 
 ## Licence
 
-Text, tables and figures are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Short quotations from cited sources remain under their original terms. See `LICENSE`.
+Copyright © 2026 the Productive Bubbles project. Text, tables and figures are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Short quotations from cited sources remain under their original terms. See `LICENSE`.
